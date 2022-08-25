@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @LightLord88
+- 👋 Hi, I’m @aaron68lee
 - 👀 I’m interested in machine learning with Python
 - 🌱 I’m currently learning how to use PyTorch
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact: 
         Email: aaron68lee@gmail.com
-        Insta: @LightLord88
-        Discord: Yoshi#0672
+        Instagram: @LightLord88
+        Discord: ♢ Lv. 100 Metapod ♢#0672
       
 
 <!---
